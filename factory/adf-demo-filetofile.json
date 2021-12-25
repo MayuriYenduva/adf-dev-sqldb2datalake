@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-filetofile",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d0fd9e0-3efc-44e6-a5fc-e53668a684a8",
+		"tenantId": "3617ef9b-98b4-40d9-ba43-e1ed6709cf0d"
+	}
+}

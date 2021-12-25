@@ -1,0 +1,14 @@
+{
+	"name": "AzureDataLakeStore1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://myams.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "3617ef9b-98b4-40d9-ba43-e1ed6709cf0d",
+			"subscriptionId": "0f39574d-d756-48cf-b622-0e27a6943bd2",
+			"resourceGroupName": "1-33a1afce-playground-sandbox"
+		}
+	}
+}
